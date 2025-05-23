@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Currently pursuing Master’s in Data Science student at Rowan University, Glassboro, New Jersey.<br>🧪 I have 1 year of experience in the Software Testing domain, where I gained hands-on knowledge in manual and automated testing, bug tracking, and quality assurance practices.<br>💡 Passionate about quality software development, test automation, and improving user experience,Web Development, Data Science and Machine Learning.<br>🔍 Skilled in tools like Postman and Selenium, and experienced in testing RESTful APIs and web applications.<br>📊 Currently exploring the world of Data Science and Data Analysis—from data wrangling to visualization and machine learning.</p>
+<p align="left">🎓 Currently pursuing Master’s in Data Science student at Rowan University, Glassboro, New Jersey.<br>🧪 I have 1 year of experience in the Software Testing domain, where I gained hands-on knowledge in manual testing.<br>💡 Passionate about quality software development, test automation, and improving user experience,Web Development, Data Science and Machine Learning.<br>🔍 Skilled in tools like Postman and Selenium, and experienced in testing RESTful APIs and web applications.<br>📊 Currently exploring the world of Data Science and Data Analysis—from data wrangling to visualization and machine learning.</p>
 
 ###
 
