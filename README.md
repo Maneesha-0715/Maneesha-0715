@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Maneesha Killampalli and I’m from Riverside,New Jersey.</p>
+<p align="left">My name is Maneesha Killampalli and I’m from Glassboro,New Jersey.</p>
 
 ###
 
